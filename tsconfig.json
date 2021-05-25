@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "jsx": "react",
+        "module": "ES6",
+        "moduleResolution": "Node",
+        "noImplicitAny": true,
+        "strict": true,
+        "sourceMap": true,
+        "removeComments": true,
+        "target": "ES5"
+    }
+}
